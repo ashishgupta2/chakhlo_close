@@ -56,7 +56,7 @@ TABLE OF CONTENTS
 	$.self_host_video_filename = "";									//-- self hosted video filename "WITHOUT .MP4 EXTENSION"
 	$.enable_tilt_effect = false;										//-- enabling tilt effect on "main title"
 	$.enable_wordrotator = true;										//-- enabling wordrotator on "main title"
-	$.wordrotator_words = ['<span class="highlight">We have </span>  <br> moved to', 'a new<br><span class="highlight">venture </span>'];	//-- Array of words, for main title
+	$.wordrotator_words = ['<span class="">We have </span>  <br> <span class="highlight">moved </span>to <br> a new<br><span class="highlight">venture </span>', 'Stay<br><span class="highlight">Tuned! </span>'];	//-- Array of words, for main title
 	
 	
 	/*-- ================================ --
